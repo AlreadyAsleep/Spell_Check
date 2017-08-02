@@ -6,7 +6,6 @@ This program is designed to be a sample spell check application to be ran from t
 To use this prototype, download the source files and run from terminal or command line. It is compatible with UTF - 8 and ASCII but will only work for characters in the english alphabet (however, some easy-ish manipulation would solve that). It is currently rigged to read dictionary text files of the form:
 
 ```
-SampleDict.txt
  Word1
  Word2
  Word3
