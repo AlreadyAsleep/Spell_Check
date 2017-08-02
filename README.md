@@ -14,4 +14,4 @@ To use this prototype, download the source files and run from terminal or comman
 
 So I recommend using the provided "randic.txt" to test with. 
 
-To run from console use $./SpellCheck (*name of dictionary file*). 
+To run from console use $./SpellCheck (*name of dictionary file*)
